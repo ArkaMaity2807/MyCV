@@ -1,19 +1,19 @@
 ---
-name: Colton
-surname: Baumler
-position: "Graduate Student Candidate"
+name: Arka
+surname: Maity
+position: "Postdoctoral Scholar"
 pronouns: He/Him
-address: "Data Intensive Biology lab of the University of California, Davis"
+address: "Department of Civil and Environmental Engineering, University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
 email: "arkmaity@ucdavis.edu"
 twitter: ""
-github: ccbaumler
-linkedin: colton-baumler
-orcid: 0000-0002-5926-7792
+github: ArkaMaity2907
+linkedin: XXXX
+orcid: XXXX-XXXX-XXXX-XXXX
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I am deeply engaged in structural earthquake engineering research."
 docname: awesomecv
 output:
   vitae::awesomecv
