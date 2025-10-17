@@ -1,7 +1,7 @@
 edu <- tribble(
   ~degree, ~startYear,  ~endMonth, ~endYear, ~inst, ~where, ~detail,
-  "University of California, Davis", 2020, "Present", NA, "Doctor of Philosophy", "California, USA", "Biochemistry, Molecular, Cellular, and Developmental Biology Graduate Group",
-  "University of California, Davis", 2020, "Present", NA, "Doctor of Philosophy", "California, USA", "Space",
+  "University of California, Davis", 2020, "2026", NA, "Doctor of Philosophy", "California, USA", "Biochemistry, Molecular, Cellular, and Developmental Biology Graduate Group",
+  "University of California, Davis", 2020, "2026", NA, "Doctor of Philosophy", "California, USA", "Space",
   "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Biology, BS",
   "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Chemistry, BA",
   "Concordia University, St. Paul", 2014, NA, 2018, "Bachelors of Arts & Science", "Minnesota, USA", "Honors in Research",
