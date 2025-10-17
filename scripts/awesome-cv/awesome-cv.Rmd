@@ -6,7 +6,7 @@ pronouns: He/Him
 address: "Data Intensive Biology lab of the University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
-email: "ccbaumler@ucdavis.edu"
+email: "arkmaity@ucdavis.edu"
 twitter: ""
 github: ccbaumler
 linkedin: colton-baumler
